@@ -1,0 +1,26 @@
+From r  Tue Nov 12 11:08:15 2002
+Return-Path: <mikebunduu1@rediffmail.com>
+X-Sieve: cmu-sieve 2.0
+Return-Path: <mikebunduu1@rediffmail.com>
+Message-Id: <200211121559.gACFxDiX014946@smtp.eecs.UM>
+From: "COL. MICHAEL BUNDU" <mikebunduu1@rediffmail.com>
+To: R@E
+Cc: 
+Subject: *****SPAM***** IMPORTANT
+Sender: "COL. MICHAEL BUNDU" <mikebunduu1@rediffmail.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Tue, 13 Nov 2001 16:10:50 -0000
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-Spam-Status: Yes, hits=8.0 required=7.0
+	tests=DEAR_SOMEBODY,US_DOLLARS,NIGERIAN_SCAM_7
+	version=2.31
+X-Spam-Flag: YES
+X-Spam-Report:   8 hits, 7 required;
+  * -0.7 -- BODY: Contains 'Dear Somebody'
+  *  4.5 -- BODY: Nigerian scam key phrase
+  *  4.2 -- BODY: Mutated Nigerian scams (7)
+X-Spam-Level: ********
+X-Spam-Checker-Version: SpamAssassin 2.31 (devel $Id: SpamAssassin.pm,v 1.94.2.2 2002/06/20 17:20:29 hughescr Exp $)
+Status: RO
